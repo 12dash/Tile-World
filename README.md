@@ -37,4 +37,5 @@ The utility of each state is updated according to the above equation
     P (s’|s, a)= Probability of reaching state s’, given s and action a.
     
  <h2>Algorithm</h2>
+ 
 ![image](https://user-images.githubusercontent.com/42071654/77925465-771ac680-72d7-11ea-9790-03968edd9a4d.png)
