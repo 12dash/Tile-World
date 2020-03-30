@@ -29,5 +29,6 @@ There is no terminal state in the maze of the Tile world.
 <h1> Value Iteration</h1>
 
 ![image](https://user-images.githubusercontent.com/42071654/77925158-1b503d80-72d7-11ea-9042-49292dbe0939.png)
+
 The utility of each state is updated according to the above equation
 
