@@ -32,3 +32,6 @@ There is no terminal state in the maze of the Tile world.
 
 The utility of each state is updated according to the above equation
 
+    U(s)= Utility of the states in the itch iteration
+    R(s)= Reward of the state s 
+    P (s’|s, a)= Probability of reaching state s’, given s and action a.
