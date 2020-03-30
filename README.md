@@ -27,7 +27,7 @@ There is no terminal state in the maze of the Tile world.
 ![image](https://user-images.githubusercontent.com/42071654/77925056-fe1b6f00-72d6-11ea-9ab9-c4f142a5a89f.png)
 
 <h1> Value Iteration</h1>
-
+<div>
 ![image](https://user-images.githubusercontent.com/42071654/77925158-1b503d80-72d7-11ea-9042-49292dbe0939.png)
 
 The utility of each state is updated according to the above equation
@@ -36,6 +36,8 @@ The utility of each state is updated according to the above equation
     R(s)= Reward of the state s 
     P (s’|s, a)= Probability of reaching state s’, given s and action a.
     
- <h2>Algorithm</h2>
+ <b>Algorithm</b>
  
 ![image](https://user-images.githubusercontent.com/42071654/77925465-771ac680-72d7-11ea-9790-03968edd9a4d.png)
+
+</ div>
