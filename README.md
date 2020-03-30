@@ -17,7 +17,7 @@ The maze environment consists of four types of tiles:
 
 The transition model of the agent is described by: 
 
-    1.	The intended outcome for an action occurs with a probability of 0.8.
-    2.  The agent moves right angle to the intended direction with a probability of 0.1.
+    1.The intended outcome for an action occurs with a probability of 0.8.
+    2.The agent moves right angle to the intended direction with a probability of 0.1.
 
 There is no terminal state in the maze of the Tile world.
