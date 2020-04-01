@@ -28,7 +28,7 @@ There is no terminal state in the maze of the Tile world.
 
 <h1> Value Iteration</h1>
 
-<div>
+<div style {text-center : }>
     
 ![image](https://user-images.githubusercontent.com/42071654/77925158-1b503d80-72d7-11ea-9042-49292dbe0939.png)
 
@@ -54,14 +54,13 @@ The utility of each state is updated according to the above equation
     
    ![image](https://user-images.githubusercontent.com/42071654/78100049-50af7500-7416-11ea-9a22-c2c79c124d12.png)
    
-   With normalization: 
-   
+    
    ![image](https://user-images.githubusercontent.com/42071654/78100118-7a689c00-7416-11ea-96e3-f1c08fa5e45b.png)
+   <center> With normalization </center>
    
-   Without normalization:
    
    ![image](https://user-images.githubusercontent.com/42071654/78100162-93714d00-7416-11ea-9b9b-a54c33a31b1d.png)
-
+    <center> Without normalization </center>
    </p>
   
 </div>
