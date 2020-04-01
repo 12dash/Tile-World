@@ -50,7 +50,18 @@ The utility of each state is updated according to the above equation
 
    <h3>Note</h3>
    <p>
-      The utility value of each states is normalized to a maximum of 2. The normalization factor needs to be decided based on the reward. The algorithm gives a decent, acceptabe result when it is run without normalization. In fact in some cases, normalization gives worse results  
+       The utility value of each states is normalized to a maximum of 2. The normalization factor needs to be decided based on the reward. The algorithm gives a decent, acceptabe result when it is run without normalization. In fact in some cases, normalization gives worse results  like the maze set up below :
+    
+   ![image](https://user-images.githubusercontent.com/42071654/78100049-50af7500-7416-11ea-9a22-c2c79c124d12.png)
+   
+   With normalization: 
+   
+   ![image](https://user-images.githubusercontent.com/42071654/78100118-7a689c00-7416-11ea-96e3-f1c08fa5e45b.png)
+   
+   Without normalization:
+   
+   ![image](https://user-images.githubusercontent.com/42071654/78100162-93714d00-7416-11ea-9b9b-a54c33a31b1d.png)
+
    </p>
   
 </div>
