@@ -28,7 +28,7 @@ There is no terminal state in the maze of the Tile world.
 
 <h1> Value Iteration</h1>
 
-<div style {text-center : }>
+<div>
     
 ![image](https://user-images.githubusercontent.com/42071654/77925158-1b503d80-72d7-11ea-9042-49292dbe0939.png)
 
@@ -49,18 +49,18 @@ The utility of each state is updated according to the above equation
    ![image](https://user-images.githubusercontent.com/42071654/78099778-90c22800-7415-11ea-90af-af8f8adb19d5.png)
 
    <h3>Note</h3>
-   <p>
+   <p style="text-align:center">
        The utility value of each states is normalized to a maximum of 2. The normalization factor needs to be decided based on the reward. The algorithm gives a decent, acceptabe result when it is run without normalization. In fact in some cases, normalization gives worse results  like the maze set up below :
     
    ![image](https://user-images.githubusercontent.com/42071654/78100049-50af7500-7416-11ea-9a22-c2c79c124d12.png)
    
     
    ![image](https://user-images.githubusercontent.com/42071654/78100118-7a689c00-7416-11ea-96e3-f1c08fa5e45b.png)
-   <center> With normalization </center>
+    With normalization 
    
    
    ![image](https://user-images.githubusercontent.com/42071654/78100162-93714d00-7416-11ea-9b9b-a54c33a31b1d.png)
-    <center> Without normalization </center>
+     Without normalization 
    </p>
   
 </div>
