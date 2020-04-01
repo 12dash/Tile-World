@@ -38,16 +38,19 @@ The utility of each state is updated according to the above equation
     R(s)= Reward of the state s 
     P (s’|s, a)= Probability of reaching state s’, given s and action a.
     
- <b>Algorithm</b>
+ <h3>Algorithm</h3>
  
    ![image](https://user-images.githubusercontent.com/42071654/77925465-771ac680-72d7-11ea-9790-03968edd9a4d.png)
 
-  <b>Results</b>
+  <h3>Results</h3>
   
    ![image](https://user-images.githubusercontent.com/42071654/78099760-84d66600-7415-11ea-9c44-0cce6de607ca.png)
     
    ![image](https://user-images.githubusercontent.com/42071654/78099778-90c22800-7415-11ea-90af-af8f8adb19d5.png)
 
-
+   <h3>Note</h3>
+   <p>
+      The utility value of each states is normalized to a maximum of 2. The normalization factor needs to be decided based on the reward. The algorithm gives a decent, acceptabe result when it is run without normalization. In fact in some cases, normalization gives worse results  
+   </p>
   
 </div>
