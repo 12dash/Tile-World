@@ -40,6 +40,14 @@ The utility of each state is updated according to the above equation
     
  <b>Algorithm</b>
  
-![image](https://user-images.githubusercontent.com/42071654/77925465-771ac680-72d7-11ea-9790-03968edd9a4d.png)
+    ![image](https://user-images.githubusercontent.com/42071654/77925465-771ac680-72d7-11ea-9790-03968edd9a4d.png)
 
+  <b>Results</b>
+  
+    ![image](https://user-images.githubusercontent.com/42071654/78099760-84d66600-7415-11ea-9c44-0cce6de607ca.png)
+    
+    ![image](https://user-images.githubusercontent.com/42071654/78099778-90c22800-7415-11ea-90af-af8f8adb19d5.png)
+
+
+  
 </div>
